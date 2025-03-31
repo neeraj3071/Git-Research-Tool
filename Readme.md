@@ -35,9 +35,6 @@ mvn clean install
 
 ## Configuration
 
-### GitHub Token:
-Store your GitHub personal access token in a file named `GitHub token- github_pat_11ARPFU5I0.txt` within the project directory.
-
 ### Repository URLs:
 List the URLs of the GitHub repositories you wish to analyze in the `VR_Project_List.txt` file, each on a new line.
 
