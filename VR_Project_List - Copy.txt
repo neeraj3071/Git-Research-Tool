@@ -1,9 +1,0 @@
-https://github.com/11-VRapp/VR-project.git
-https://github.com/39M/M.git
-https://github.com/3Glasses/UnitySDK.git
-https://github.com/A11YTK/A11YTK.git
-https://github.com/addyi/SoftwareCity.git
-https://github.com/AdrianBZG/Medieval_Warfare_VR-Unity.git
-https://github.com/aestheticinteractive/Hover-UI-Kit.git
-https://github.com/aggie-coding-club/the-brute-vr.git
-https://github.com/aidie8/VRHamsterBall.git
