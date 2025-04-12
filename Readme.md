@@ -56,6 +56,5 @@ After execution, reports will be generated in the `reports` directory.
 - `target/` - Compiled classes and packaged JAR files.
 - `reports/` - Directory where generated reports are stored.
 - `pom.xml` - Maven project configuration file.
-- `VR_Project_List.txt` - File listing GitHub repository URLs for analysis.
 
 
