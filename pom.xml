@@ -21,7 +21,7 @@
         <poi.version>5.2.3</poi.version>
         <xmlbeans.version>5.1.1</xmlbeans.version>
         <json.version>20210307</json.version>
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <launch4j.plugin.version>2.3.3</launch4j.plugin.version>
     </properties>
 
